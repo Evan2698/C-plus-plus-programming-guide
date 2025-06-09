@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/Evan/MyWorks/C++编程基础教程/第十六课 静态变量/example/01/build",
+  "command": "/usr/bin/g++    -O0 -fno-elide-constructors -g -o CMakeFiles/example16.dir/main.cpp.o -c \"/home/Evan/MyWorks/C++编程基础教程/第十六课 静态变量/example/01/main.cpp\"",
+  "file": "/home/Evan/MyWorks/C++编程基础教程/第十六课 静态变量/example/01/main.cpp",
+  "output": "CMakeFiles/example16.dir/main.cpp.o"
+}
+]

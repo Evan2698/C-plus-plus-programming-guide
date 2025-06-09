@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/Evan/MyWorks/教程/第十课 虚函数以及对象内存模型/example/01/build",
+  "command": "/usr/bin/g++    -O0 -fno-elide-constructors -g -o CMakeFiles/example10.dir/main.cpp.o -c \"/home/Evan/MyWorks/教程/第十课 虚函数以及对象内存模型/example/01/main.cpp\"",
+  "file": "/home/Evan/MyWorks/教程/第十课 虚函数以及对象内存模型/example/01/main.cpp",
+  "output": "CMakeFiles/example10.dir/main.cpp.o"
+}
+]

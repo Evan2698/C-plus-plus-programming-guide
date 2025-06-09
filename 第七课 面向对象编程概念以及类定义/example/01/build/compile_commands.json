@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/Evan/MyWorks/教程/第七课 面向对象编程概念以及类定义/example/01/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example07.dir/main.cpp.o -c \"/home/Evan/MyWorks/教程/第七课 面向对象编程概念以及类定义/example/01/main.cpp\"",
+  "file": "/home/Evan/MyWorks/教程/第七课 面向对象编程概念以及类定义/example/01/main.cpp",
+  "output": "CMakeFiles/example07.dir/main.cpp.o"
+}
+]

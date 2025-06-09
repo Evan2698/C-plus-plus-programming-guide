@@ -1,0 +1,3 @@
+/home/Evan/MyWorks/C++编程基础教程/第十六课 静态变量/example/01/build/CMakeFiles/example16.dir
+/home/Evan/MyWorks/C++编程基础教程/第十六课 静态变量/example/01/build/CMakeFiles/edit_cache.dir
+/home/Evan/MyWorks/C++编程基础教程/第十六课 静态变量/example/01/build/CMakeFiles/rebuild_cache.dir

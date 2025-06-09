@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/Evan/MyWorks/教程/第八课 类的各种默认成员函数/example/01/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example08.dir/main.cpp.o -c \"/home/Evan/MyWorks/教程/第八课 类的各种默认成员函数/example/01/main.cpp\"",
+  "file": "/home/Evan/MyWorks/教程/第八课 类的各种默认成员函数/example/01/main.cpp",
+  "output": "CMakeFiles/example08.dir/main.cpp.o"
+},
+{
+  "directory": "/home/Evan/MyWorks/教程/第八课 类的各种默认成员函数/example/01/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example08.dir/student.cpp.o -c \"/home/Evan/MyWorks/教程/第八课 类的各种默认成员函数/example/01/student.cpp\"",
+  "file": "/home/Evan/MyWorks/教程/第八课 类的各种默认成员函数/example/01/student.cpp",
+  "output": "CMakeFiles/example08.dir/student.cpp.o"
+}
+]

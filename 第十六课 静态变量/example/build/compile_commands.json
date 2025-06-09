@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/Evan/MyWorks/教程/第十五课 类继承杂项/example/build",
+  "command": "/usr/bin/g++    -O0 -fno-elide-constructors -g -o CMakeFiles/example15.dir/main.cpp.o -c \"/home/Evan/MyWorks/教程/第十五课 类继承杂项/example/01/main.cpp\"",
+  "file": "/home/Evan/MyWorks/教程/第十五课 类继承杂项/example/01/main.cpp",
+  "output": "CMakeFiles/example15.dir/main.cpp.o"
+}
+]
